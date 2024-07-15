@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Tnetang project
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+ini adalah  FE halaman admin dari degital agency
 
 ## Available Scripts
 
